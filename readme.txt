@@ -1,6 +1,6 @@
 === My FAQ's ===
 Contributors: Sandeepkumar Ahir
-Donate link: www.sandeepahir.com/
+Donate link: https://dev-portfolio-sandeep-ahir.pantheonsite.io
 Tags: init, faqs, init faq, init faqs, faq list, faqs list, faq plugin, faq with category, frequently asked questions, wordpress, wordpress faq,
 Requires at least: 3.0+
 Tested up to: 4.6.1

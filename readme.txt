@@ -32,7 +32,7 @@ A Init Faq's plugin is a simple and quick way to display faqs in your theme usin
 
 == Frequently Asked Questions ==
 
-= Are there shortcodes for FAQs items? =
+= Are there shortcodes for FAQs items? = yes
 
 Yes, one shortcode with four different parameters availabe.
 1. Limit

@@ -1,0 +1,22 @@
+.faq-left h2{margin:20px 0 0 !important;color:#951a1e;}
+.faq-page ul{margin:0;padding:0}
+.faq-page .cat-title{background:none repeat scroll 0 0 #951a1e;color:#fff;font-family:georgia;font-size:25px;padding:17px;border-top-right-radius:5px;border-top-left-radius:5px}
+.faq-page .faq-list li .faq_title{background:rgba(0,0,0,0) url(images/open_faq.png) no-repeat scroll 96% center;color:#666;cursor:pointer;font-family:georgia;font-size:18px;font-weight:400;margin:0;padding:17px 20px}
+.faq-page .faq-list li{border:1px solid #ccc;border-radius:5px;list-style:outside none none;margin:15px 0;padding:0}
+.faq-page .faq-list li:last-child{margin-bottom:0}
+.faq-page .faq-list li.active .faq_title{background:url(images/close_faq.png) no-repeat scroll 96% center rgba(0,0,0,0)}
+.faq-page .faq-list li.active .faq_title:hover{background:url(images/close_faq_hover.png) no-repeat scroll 96% center rgba(0,0,0,0)}
+.faq-page .faq-list li .faq_title:hover{background:url(images/open_faq_hover.png) no-repeat scroll 96% center rgba(0,0,0,0);color:#951a1e}
+.faq-page .faq_content{background:none repeat scroll 0 0 #eaeaea;color:#666;font-family:georgia;font-size:18px;padding:18px 20px;line-height:24px;text-align:justify}
+.faq-page .faq-right > ul{border:1px solid #ccc;border-bottom-right-radius:5px;border-bottom-left-radius:5px}
+.faq-page .faq-right a{color:#666;cursor:pointer;display:block;float:left;font-family:lato;font-size:15px;line-height:1.5;padding:16px;text-decoration:none;width:100%}
+.faq-page .faq-right a:hover,.faq-page .faq-right a.active{color:#951a1e!important;outline:medium none}
+.faq-right li:hover span,.faq-right li a.active span{background:#951a1e;color:#FFF}
+.faq-page .faq-right span{background:none repeat scroll 0 0 #ebebeb;border-radius:50%;color:#666;display:inline-block;float:right;height:25px;line-height:1.7;text-align:center;vertical-align:middle;width:25px}
+.faq-page .faq-right li{border-bottom:1px solid #ccc;clear:both;margin:0;overflow:hidden;list-style:outside none none}
+.faq-right li:last-child{border-bottom:none}
+.faq-page .faq-right{float:right!important;width:26%!important}
+@media screen and (max-width: 767px) {
+.faq-page .faq-left{width:100%!important}
+.faq-page .faq-right{width:100%!important}
+}
